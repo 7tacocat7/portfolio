@@ -37,3 +37,12 @@ color: red;
   background-color: yellow;
 
 }
+
+body {
+  font-family: cursive;
+}
+.important h3{
+  font-family: courier
+  background inherit;
+
+}
