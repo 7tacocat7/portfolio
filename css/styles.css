@@ -11,7 +11,7 @@ p {
 .important {
 color: red;
 }
-  img {
+  img.main {
    border-radius: 50%;
    float: left;
  }
@@ -24,5 +24,10 @@ color: red;
     height: auto;}
 
   .sidebar {
-  float: right;
+  column: right;
   background-color: yellow;}
+.my-class {
+  border: 2px solid purple;
+  padding: 4px;
+  margin: 12px;
+}
