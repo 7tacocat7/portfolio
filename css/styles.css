@@ -23,11 +23,17 @@ color: red;
     width: 300px;
     height: auto;}
 
-  .sidebar {
-  column: right;
-  background-color: yellow;}
+
 .my-class {
-  border: 2px solid purple;
+  border: 2px dotted purple;
   padding: 4px;
   margin: 12px;
+
+}
+.sidebar {
+  border: 2px solid black;
+  width: 30%;
+  float: right;
+  background-color: yellow;
+
 }
