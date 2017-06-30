@@ -46,3 +46,16 @@ body {
   background inherit;
 
 }
+
+@media screen and (max-width: 768px) {
+    body {
+        background-color: black;
+        color: green;
+    }
+}
+@media screen and (max-width: 480px) {
+  body {
+    background-color: teal;
+    color: pink;
+  }
+}
