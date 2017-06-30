@@ -1,0 +1,28 @@
+h1 {
+  font-family: courier
+}
+
+h2 {
+  font-family: courier
+}
+p {
+  font-family: courier new
+}
+.important {
+color: red;
+}
+  img {
+   border-radius: 50%;
+   float: left;
+ }
+  .resize {
+     width: 400px;
+     height: auto;
+ }
+  .resize {
+    width: 300px;
+    height: auto;}
+
+  .sidebar {
+  float: right;
+  background-color: yellow;}
