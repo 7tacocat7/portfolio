@@ -8,3 +8,6 @@ h2 {
 p {
   font-family: courier new
 }
+.important {
+color: red;
+}
