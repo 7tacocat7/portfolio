@@ -4,13 +4,11 @@
 h1 {
   font-family: courier
 }
-
 h2 {
   font-family: courier
 }
 p {
   font-family: courier new
-
 }
 .important {
 color: red;
@@ -26,31 +24,24 @@ color: red;
   .resize {
     width: 300px;
     height: auto;}
-
-
 .my-class {
   border: 2px dotted purple;
   padding: 4px;
   margin: 12px;
-
 }
 .sidebar {
   border: 2px solid black;
   width: 30%;
   float: right;
   background-color: yellow;
-
 }
-
 body {
   font-family: cursive;
 }
 .important h3{
   font-family: courier
   background inherit;
-
 }
-
 @media screen and (max-width: 768px) {
     body {
         background-color: black;
