@@ -33,9 +33,13 @@ color: red;
   padding: 4px;
   margin: 12px;
 }
-.sidebar {
+#sidebar {
+  padding-left: 12px;
+  padding-right: 12px;
   border: 2px solid black;
-  width: 30%;
+  margin-left: 300px%;
+  width: 50%;
+  height: 50%;
   float: right;
   background-color: yellow;
 }
