@@ -11,7 +11,7 @@ _Basic HTML file being used as a landingpage to display information about myself
 ## Setup/Installation Requirements
 
 * _Clone this repository_
-* _https://github.com/7tacocat7/portfolio.git_
+* _https://my-github-7tacocat7.github.io/portfolio-name
 * _locate portfolio-landing-page directory & html file named index.html_
 * _open HTML in any we browser_
 
